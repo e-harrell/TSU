@@ -1,17 +1,17 @@
 ,year,city,state,winscore,losscore,loser,winner,locale,TSU score,opponent score,scorediff,scorediff_abs,winloss,date
 0,2003,Nashville,TN,37,20,South Carolina State University,Tennessee State University,Home,37,20,17,17,Win,2003-08-30
-1,2003,Nashville,TN,42,7,Alabama A&M University,Tennessee State University,Home,42,7,35,35,Win,2003-09-04
-2,2003,Huntsville,AL,31,24,Tennessee State University,Alabama A&M University,Away,24,31,-7,7,Loss,2003-09-06
-3,2003,Memphis,TN,44,14,Jackson State University,Tennessee State University,Away,44,14,30,30,Win,2003-09-13
-4,2003,Atlanta,GA,10,7,Tennessee State University,Florida A&M University,Away,7,10,-3,3,Loss,2003-09-20
-5,2003,Nashville,TN,41,10,University of Tennessee Martin,Tennessee State University,Home,41,10,31,31,Win,2003-09-27
-6,2003,Cookeville,TN,27,23,Tennessee Tech University,Tennessee State University,Away,27,23,4,4,Win,2003-10-11
-7,2003,Nashville,TN,34,7,Tennessee State University,Jacksonville State University,Home,7,34,-27,27,Loss,2003-10-18
-8,2003,Birmingham,AL,29,24,Samford University,Tennessee State University,Away,29,24,5,5,Win,2003-10-25
-9,2003,Nashville,TN,24,14,Eastern Illinois University,Tennessee State University,Home,24,14,10,10,Win,2003-11-01
-10,2003,Cape Girardeau,MO,52,35,Tennessee State University,Southeast Missouri State University,Away,35,52,-17,17,Loss,2003-11-08
-11,2003,Nashville,TN,43,38,Tennessee State University,Eastern Kentucky University,Home,38,43,-5,5,Loss,2003-11-15
-12,2003,Murray,KY,35,10,Murray State University,Tennessee State University,Away,35,10,25,25,Win,2003-11-22
+1,2003,Huntsville,AL,31,24,Tennessee State University,Alabama A&M University,Away,24,31,-7,7,Loss,2003-09-06
+2,2003,Memphis,TN,44,14,Jackson State University,Tennessee State University,Away,44,14,30,30,Win,2003-09-13
+3,2003,Atlanta,GA,10,7,Tennessee State University,Florida A&M University,Away,7,10,-3,3,Loss,2003-09-20
+4,2003,Nashville,TN,41,10,University of Tennessee Martin,Tennessee State University,Home,41,10,31,31,Win,2003-09-27
+5,2003,Cookeville,TN,27,23,Tennessee Tech University,Tennessee State University,Away,27,23,4,4,Win,2003-10-11
+6,2003,Nashville,TN,34,7,Tennessee State University,Jacksonville State University,Home,7,34,-27,27,Loss,2003-10-18
+7,2003,Birmingham,AL,29,24,Samford University,Tennessee State University,Away,29,24,5,5,Win,2003-10-25
+8,2003,Nashville,TN,24,14,Eastern Illinois University,Tennessee State University,Home,24,14,10,10,Win,2003-11-01
+9,2003,Cape Girardeau,MO,52,35,Tennessee State University,Southeast Missouri State University,Away,35,52,-17,17,Loss,2003-11-08
+10,2003,Nashville,TN,43,38,Tennessee State University,Eastern Kentucky University,Home,38,43,-5,5,Loss,2003-11-15
+11,2003,Murray,KY,35,10,Murray State University,Tennessee State University,Away,35,10,25,25,Win,2003-11-22
+12,2004,Nashville,TN,42,7,Alabama A&M University,Tennessee State University,Home,42,7,35,35,Win,2004-09-04
 13,2004,Martin,TN,27,13,University of Tennessee Martin,Tennessee State University,Away,27,13,14,14,Win,2004-09-09
 14,2004,Memphis,TN,21,20,Jackson State University,Tennessee State University,Away,21,20,1,1,Win,2004-09-18
 15,2004,Atlanta,GA,21,15,Tennessee State University,Florida A&M University,Away,15,21,-6,6,Loss,2004-09-25
@@ -175,8 +175,8 @@
 173,2018,Clarksville,TN,49,34,Tennessee State University,Austin Peay State University,Away,34,49,-15,15,Loss,2018-10-06
 174,2018,Murray,KY,45,21,Tennessee State University,Murray State University,Away,21,45,-24,24,Loss,2018-10-13
 175,2018,Nashville,TN,41,14,Tennessee Tech University,Tennessee State University,Home,41,14,27,27,Win,2018-10-20
-176,2018,Nashville,TN,41,14,Tennessee State University,Jacksonville State University,Home,14,41,-27,27,Loss,2018-11-10
-177,2018,Cape Girardeau,MO,38,21,Tennessee State University,Southeast Missouri State University,Away,21,38,-17,17,Loss,2018-11-11
+176,2018,Cape Girardeau,MO,38,21,Tennessee State University,Southeast Missouri State University,Away,21,38,-17,17,Loss,2018-11-03
+177,2018,Nashville,TN,41,14,Tennessee State University,Jacksonville State University,Home,14,41,-27,27,Loss,2018-11-10
 178,2018,Nashville,TN,31,28,University of Tennessee Martin,Tennessee State University,Home,31,28,3,3,Win,2018-11-17
 179,2019,Nashville,TN,26,20,Mississippi Valley State University,Tennessee State University,Home,26,20,6,6,Win,2019-08-31
 180,2019,Murfreesboro,TN,45,26,Tennessee State University,Middle Tennessee State University,Away,26,45,-19,19,Loss,2019-09-07
