@@ -1,0 +1,192 @@
+,year_scores,city,state,winscore,losscore,loser,winner,locale,TSU score,opponent score,scorediff,scorediff_abs,winloss,date,attendance,TSUrushyards,TSUreceiveyards,TSUkreturnyards,TSUpreturnyards,TSUtackles,TSUtackleyd,TSUsacks,TSUsackyd,TSUpunt,year_fullstats
+0,2003,Nashville,TN,37,20,South Carolina State University,Tennessee State University,Home,37,20,17,17,Win,2003-08-30,18124,113,365,69,88,69,33,3.0,21,5,2003
+1,2003,Huntsville,AL,31,24,Tennessee State University,Alabama A&M University,Away,24,31,-7,7,Loss,2003-09-06,18085,141,146,147,8,68,22,0.0,0,7,2003
+2,2003,Memphis,TN,44,14,Jackson State University,Tennessee State University,Away,44,14,30,30,Win,2003-09-13,52603,209,132,138,107,84,26,1.0,4,5,2003
+3,2003,Atlanta,GA,10,7,Tennessee State University,Florida A&M University,Away,7,10,-3,3,Loss,2003-09-20,70185,153,138,86,2,50,22,0.0,0,6,2003
+4,2003,Nashville,TN,41,10,University of Tennessee Martin,Tennessee State University,Home,41,10,31,31,Win,2003-09-27,8434,142,285,11,29,76,46,4.0,22,3,2003
+5,2003,Cookeville,TN,27,23,Tennessee Tech University,Tennessee State University,Away,27,23,4,4,Win,2003-10-11,8127,182,297,33,52,74,44,4.0,30,2,2003
+6,2003,Nashville,TN,34,7,Tennessee State University,Jacksonville State University,Home,7,34,-27,27,Loss,2003-10-18,8023,47,175,90,-17,79,9,1.0,9,6,2003
+7,2003,Birmingham,AL,29,24,Samford University,Tennessee State University,Away,29,24,5,5,Win,2003-10-25,10360,132,271,50,45,83,34,2.0,24,8,2003
+8,2003,Nashville,TN,24,14,Eastern Illinois University,Tennessee State University,Home,24,14,10,10,Win,2003-11-01,25037,223,184,8,9,65,23,2.0,12,5,2003
+9,2003,Cape Girardeau,MO,52,35,Tennessee State University,Southeast Missouri State University,Away,35,52,-17,17,Loss,2003-11-08,5375,149,196,139,18,65,23,2.0,14,5,2003
+10,2003,Nashville,TN,43,38,Tennessee State University,Eastern Kentucky University,Home,38,43,-5,5,Loss,2003-11-15,3875,144,371,112,0,75,32,4.0,20,10,2003
+11,2003,Murray,KY,35,10,Murray State University,Tennessee State University,Away,35,10,25,25,Win,2003-11-22,2814,191,195,63,15,67,37,5.0,28,7,2003
+12,2004,Nashville,TN,42,7,Alabama A&M University,Tennessee State University,Home,42,7,35,35,Win,2004-09-04,25117,152,203,24,26,74,35,2.0,12,4,2004
+13,2004,Martin,TN,27,13,University of Tennessee Martin,Tennessee State University,Away,27,13,14,14,Win,2004-09-09,7019,156,158,34,32,65,60,4.0,30,7,2004
+14,2004,Memphis,TN,21,20,Jackson State University,Tennessee State University,Away,21,20,1,1,Win,2004-09-18,55015,164,149,39,10,63,19,2.0,7,7,2004
+15,2004,Atlanta,GA,21,15,Tennessee State University,Florida A&M University,Away,15,21,-6,6,Loss,2004-09-25,67712,161,163,49,32,78,70,5.0,49,9,2004
+16,2004,Indianapolis,IN,30,13,Tennessee State University,South Carolina State University,Away,13,30,-17,17,Loss,2004-10-02,51082,22,173,57,0,91,17,1.0,4,9,2004
+17,2004,Jacksonville,AL,49,35,Tennessee State University,Jacksonville State University,Away,35,49,-14,14,Loss,2004-10-16,14722,106,381,120,0,77,0,0.0,0,4,2004
+18,2004,Nashville,TN,42,36,Tennessee State University,Samford University,Home,36,42,-6,6,Loss,2004-10-23,5041,290,211,127,36,88,23,1.0,5,4,2004
+19,2004,Charleston,IL,34,24,Tennessee State University,Eastern Illinois University,Away,24,34,-10,10,Loss,2004-10-30,5422,22,192,100,77,66,6,0.0,0,8,2004
+20,2004,Nashville,TN,38,36,Southeast Missouri State University,Tennessee State University,Home,38,36,2,2,Win,2004-11-06,23421,243,215,76,22,63,31,2.0,12,7,2004
+21,2004,Richmond,KY,29,14,Tennessee State University,Eastern Kentucky University,Away,14,29,-15,15,Loss,2004-11-13,7100,194,162,95,63,67,25,1.0,5,6,2004
+22,2004,Nashville,TN,30,13,Tennessee State University,Murray State University,Home,13,30,-17,17,Loss,2004-11-20,4864,83,142,130,0,66,16,0.0,0,8,2004
+23,2005,Nashville,TN,27,14,Tennessee State University,Alabama A&M University,Home,14,27,-13,13,Loss,2005-09-03,25342,72,154,62,32,47,20,2.0,13,4,2005
+24,2005,Memphis,TN,20,14,Jackson State University,Tennessee State University,Away,20,14,6,6,Win,2005-09-10,48300,286,103,11,47,59,29,3.0,16,3,2005
+25,2005,Martin,TN,42,20,Tennessee State University,University of Tennessee Martin,Away,20,42,-22,22,Loss,2005-09-17,5263,77,170,110,-2,95,17,1.0,6,6,2005
+26,2005,Atlanta,GA,12,7,Tennessee State University,Florida A&M University,Away,7,12,-5,5,Loss,2005-09-24,56297,26,238,10,67,70,56,7.0,50,6,2005
+27,2005,Indianapolis,IN,16,3,Tennessee State University,North Carolina A&T State University,Away,3,16,-13,13,Loss,2005-10-01,42310,117,115,99,49,75,56,6.0,37,6,2005
+28,2005,Cookeville,TN,31,20,Tennessee Tech University,Tennessee State University,Away,31,20,11,11,Win,2005-10-13,10226,233,78,71,53,89,41,2.0,11,8,2005
+29,2005,Nashville,TN,33,3,Tennessee State University,Jacksonville State University,Home,3,33,-30,30,Loss,2005-10-22,6490,157,185,114,14,62,9,0.0,0,5,2005
+30,2005,Birmingham,AL,31,11,Tennessee State University,Samford University,Away,11,31,-20,20,Loss,2005-10-29,8278,87,160,78,3,72,20,2.0,8,7,2005
+31,2005,Nashville,TN,27,3,Tennessee State University,Eastern Illinois University,Home,3,27,-24,24,Loss,2005-11-05,23481,50,196,90,0,61,26,1.0,14,5,2005
+32,2005,Cape Girardeau,MO,32,24,Tennessee State University,Southeast Missouri State University,Away,24,32,-8,8,Loss,2005-11-12,2512,141,286,128,1,53,20,1.0,7,5,2005
+33,2005,Nashville,TN,49,0,Tennessee State University,Eastern Kentucky University,Home,0,49,-49,49,Loss,2005-11-19,4779,-18,150,138,0,64,6,0.0,0,8,2005
+34,2006,Nashville,TN,27,20,Tennessee State University,Alabama A&M University,Home,20,27,-7,7,Loss,2006-09-02,19487,156,206,105,0,63,3,0.0,0,2,2006
+35,2006,Nashville,TN,25,15,Murray State University,Tennessee State University,Home,25,15,10,10,Win,2006-09-09,10613,111,230,102,0,76,38,3.0,23,5,2006
+36,2006,Memphis,TN,31,30,Jackson State University,Tennessee State University,Away,31,30,1,1,Win,2006-09-16,53441,146,167,77,24,63,18,1.0,6,2,2006
+37,2006,Nashville,TN,38,9,Tennessee State University,Vanderbilt University,Home,9,38,-29,29,Loss,2006-09-23,27460,71,181,70,0,59,25,1.0,7,3,2006
+38,2006,Atlanta,GA,25,22,Tennessee State University,Florida A&M University,Away,22,25,-3,3,Loss,2006-09-30,57885,227,210,98,16,54,14,1.0,4,4,2006
+39,2006,Nashville,TN,30,20,Tennessee Tech University,Tennessee State University,Home,30,20,10,10,Win,2006-10-14,9720,310,169,45,4,64,15,1.0,8,4,2006
+40,2006,Jacksonville,AL,38,31,Jacksonville State University,Tennessee State University,Away,38,31,7,7,Win,2006-10-21,11800,103,260,119,20,77,26,3.0,20,6,2006
+41,2006,Nashville,TN,29,7,Samford University,Tennessee State University,Home,29,7,22,22,Win,2006-10-28,18758,247,105,23,13,45,28,3.0,16,3,2006
+42,2006,Charleston,IL,29,3,Tennessee State University,Eastern Illinois University,Away,3,29,-26,26,Loss,2006-11-04,5912,49,162,115,0,88,22,1.0,10,6,2006
+43,2006,Nashville,TN,31,0,Southeast Missouri State University,Tennessee State University,Home,31,0,31,31,Win,2006-11-11,4271,133,152,0,17,44,27,4.0,23,4,2006
+44,2006,Richmond,KY,20,3,Tennessee State University,Eastern Kentucky University,Away,3,20,-17,17,Loss,2006-11-18,5500,95,162,126,7,70,30,2.0,14,1,2006
+45,2007,Nashville,TN,49,23,Tennessee State University,Alabama A&M University,Home,23,49,-26,26,Loss,2007-09-01,23440,206,176,154,35,56,17,2.0,15,6,2007
+46,2007,Memphis,TN,16,13,Jackson State University,Tennessee State University,Away,16,13,3,3,Win,2007-09-08,50879,153,232,84,24,63,30,2.0,16,5,2007
+47,2007,Clarksville,TN,33,32,Austin Peay State University,Tennessee State University,Away,33,32,1,1,Win,2007-09-15,8359,238,233,83,14,64,44,3.0,26,3,2007
+48,2007,Baton Rouge,LA,41,34,Tennessee State University,Southern University & A&M College,Away,34,41,-7,7,Loss,2007-09-22,15371,133,316,135,15,80,56,3.0,36,7,2007
+49,2007,Atlanta,GA,18,17,Tennessee State University,Florida A&M University,Away,17,18,-1,1,Loss,2007-09-29,56990,177,309,111,33,78,28,3.0,23,4,2007
+50,2007,Cookeville,TN,45,28,Tennessee Tech University,Tennessee State University,Away,45,28,17,17,Win,2007-10-11,9369,320,138,64,8,70,23,0.0,0,4,2007
+51,2007,Richmond,KY,49,7,Tennessee State University,Eastern Kentucky University,Away,7,49,-42,42,Loss,2007-10-20,11500,169,127,122,0,77,19,1.0,10,10,2007
+52,2007,Nashville,TN,38,35,Tennessee State University,Eastern Illinois University,Home,35,38,-3,3,Loss,2007-10-27,8935,166,189,84,20,88,12,0.0,0,5,2007
+53,2007,Nashville,TN,42,28,Murray State University,Tennessee State University,Home,42,28,14,14,Win,2007-11-03,24878,280,69,6,77,93,25,3.0,15,3,2007
+54,2007,Birmingham,AL,38,28,Samford University,Tennessee State University,Away,38,28,10,10,Win,2007-11-08,4193,187,125,94,-1,75,35,1.0,11,5,2007
+55,2007,Nashville,TN,43,38,Tennessee State University,University of Tennessee Martin,Home,38,43,-5,5,Loss,2007-11-17,7859,290,173,222,31,92,14,1.0,8,3,2007
+56,2008,Huntsville,AL,34,13,Alabama A&M University,Tennessee State University,Away,34,13,21,21,Win,2008-08-30,10072,107,292,160,2,46,20,1.0,10,3,2008
+57,2008,Nashville,TN,34,32,Southern University & A&M College,Tennessee State University,Home,34,32,2,2,Win,2008-09-06,28830,148,315,66,37,76,29,1.0,4,3,2008
+58,2008,Memphis,TN,41,18,Jackson State University,Tennessee State University,Away,41,18,23,23,Win,2008-09-13,50794,148,137,34,38,58,9,0.0,0,3,2008
+59,2008,Nashville,TN,34,20,Eastern Kentucky University,Tennessee State University,Home,34,20,14,14,Win,2008-09-20,8276,229,314,84,6,51,48,3.0,27,3,2008
+60,2008,Atlanta,GA,28,21,Tennessee State University,Florida A&M University,Away,21,28,-7,7,Loss,2008-09-27,50428,136,241,95,2,61,37,3.0,23,5,2008
+61,2008,Martin,TN,30,27,University of Tennessee Martin,Tennessee State University,Away,30,27,3,3,Win,2008-10-04,7549,177,155,93,21,74,13,0.0,0,6,2008
+62,2008,Nashville,TN,37,34,Austin Peay State University,Tennessee State University,Home,37,34,3,3,Win,2008-10-18,9358,377,108,101,0,62,25,2.0,22,1,2008
+63,2008,Cape Girardeau,MO,27,20,Tennessee State University,Southeast Missouri State University,Away,20,27,-7,7,Loss,2008-10-25,9750,217,233,72,18,54,27,2.0,15,1,2008
+64,2008,Nashville,TN,41,14,Tennessee Tech University,Tennessee State University,Home,41,14,27,27,Win,2008-11-01,24361,212,138,32,37,67,30,2.0,16,4,2008
+65,2008,Nashville,TN,45,24,Eastern Illinois University,Tennessee State University,Home,45,24,21,21,Win,2008-11-08,6393,309,162,59,4,68,19,2.0,13,4,2008
+66,2008,Jacksonville,AL,26,21,Tennessee State University,Jacksonville State University,Away,21,26,-5,5,Loss,2008-11-15,7956,177,170,57,42,69,10,1.0,8,7,2008
+67,2008,Murray,KY,24,17,Tennessee State University,Murray State University,Away,17,24,-7,7,Loss,2008-11-22,2292,113,210,57,-2,60,26,2.0,11,5,2008
+68,2009,Nashville,TN,24,7,Tennessee State University,Alabama A&M University,Home,7,24,-17,17,Loss,2009-09-05,23871,13,178,46,0,71,18,1.0,7,6,2009
+69,2009,Memphis,TN,14,7,Jackson State University,Tennessee State University,Away,14,7,7,7,Win,2009-09-12,43306,217,43,19,20,60,42,3.0,26,9,2009
+70,2009,Baton Rouge,LA,21,17,Tennessee State University,Southern University & A&M College,Away,17,21,-4,4,Loss,2009-09-19,12247,169,86,75,13,81,28,3.0,15,8,2009
+71,2009,Atlanta,GA,31,12,Tennessee State University,Florida A&M University,Away,12,31,-19,19,Loss,2009-09-26,51950,167,107,95,2,63,14,1.0,5,6,2009
+72,2009,Nashville,TN,23,17,Southeast Missouri State University,Tennessee State University,Home,23,17,6,6,Win,2009-10-03,6314,259,95,72,30,58,20,3.0,15,5,2009
+73,2009,Richmond,KY,20,17,Eastern Kentucky University,Tennessee State University,Away,20,17,3,3,Win,2009-10-10,7100,159,124,81,24,52,24,3.0,14,8,2009
+74,2009,Nashville,TN,9,6,Tennessee State University,Murray State University,Home,6,9,-3,3,Loss,2009-10-17,5572,169,68,64,5,69,21,2.0,12,6,2009
+75,2009,Cookeville,TN,20,13,Tennessee State University,Tennessee Tech University,Away,13,20,-7,7,Loss,2009-10-31,7999,152,128,78,7,56,35,2.0,18,7,2009
+76,2009,Nashville,TN,28,7,Tennessee State University,University of Tennessee Martin,Home,7,28,-21,21,Loss,2009-11-07,22092,62,207,97,7,83,9,0.0,0,7,2009
+77,2009,Clarksville,TN,24,21,Tennessee State University,Austin Peay State University,Away,21,24,-3,3,Loss,2009-11-14,6968,104,189,60,2,73,6,0.0,0,8,2009
+78,2009,Charleston,IL,21,10,Eastern Illinois University,Tennessee State University,Away,21,10,11,11,Win,2009-11-19,3509,176,135,55,-4,47,19,2.0,11,8,2009
+79,2010,Nashville,TN,27,14,Alabama A&M University,Tennessee State University,Home,27,14,13,13,Win,2010-09-04,22607,107,127,127,36,64,42,7.0,40,6,2010
+80,2010,Memphis,TN,33,26,Tennessee State University,Jackson State University,Away,26,33,-7,7,Loss,2010-09-11,44688,224,185,133,28,60,26,0.0,0,6,2010
+81,2010,Nashville,TN,26,23,Tennessee State University,Austin Peay State University,Home,23,26,-3,3,Loss,2010-09-18,8502,162,225,134,25,57,24,2.0,13,3,2010
+82,2010,Atlanta,GA,29,18,Florida A&M University,Tennessee State University,Away,29,18,11,11,Win,2010-09-25,54202,304,109,33,142,58,60,8.0,48,5,2010
+83,2010,Indianapolis,IN,37,7,North Carolina A&T State University,Tennessee State University,Away,37,7,30,30,Win,2010-10-02,35217,379,142,20,13,66,34,5.0,31,4,2010
+84,2010,Cape Girardeau,MO,19,17,Tennessee State University,Southeast Missouri State University,Away,17,19,-2,2,Loss,2010-10-09,10316,152,147,90,0,86,17,1.0,9,5,2010
+85,2010,Jacksonville,AL,24,0,Tennessee State University,Jacksonville State University,Away,0,24,-24,24,Loss,2010-10-16,15218,154,65,61,-19,66,11,0.0,0,8,2010
+86,2010,Nashville,TN,21,10,Tennessee State University,Tennessee Tech University,Home,10,21,-11,11,Loss,2010-10-23,6739,158,203,56,1,67,24,1.0,4,3,2010
+87,2010,Nashville,TN,31,28,Tennessee State University,Eastern Illinois University,Home,28,31,-3,3,Loss,2010-11-06,21596,180,277,29,21,66,19,1.0,7,7,2010
+88,2010,Martin,TN,37,0,Tennessee State University,University of Tennessee Martin,Away,0,37,-37,37,Loss,2010-11-13,3141,72,51,116,2,55,12,1.0,7,9,2010
+89,2010,Murray,KY,28,23,Tennessee State University,Murray State University,Away,23,28,-5,5,Loss,2010-11-20,2904,198,289,134,1,65,30,1.0,4,5,2010
+90,2011,Nashville,TN,33,7,Southern University & A&M College,Tennessee State University,Home,33,7,26,26,Win,2011-09-03,25209,342,170,48,0,45,41,5.0,30,3,2011
+91,2011,Memphis,TN,35,29,Tennessee State University,Jackson State University,Away,29,35,-6,6,Loss,2011-09-10,43532,78,226,146,5,64,45,3.0,31,6,2011
+92,2011,Murray,KY,58,27,Tennessee State University,Murray State University,Away,27,58,-31,31,Loss,2011-09-17,10031,168,207,197,17,94,32,3.0,21,9,2011
+93,2011,Air Force Academy,CO,63,24,Tennessee State University,Air Force Academy,Away,24,63,-39,39,Loss,2011-09-24,33487,188,206,97,0,88,0,0.0,0,8,2011
+94,2011,Clarksville,TN,37,34,Tennessee State University,Austin Peay State University,Away,34,37,-3,3,Loss,2011-10-01,8614,162,304,158,0,61,20,2.0,10,2,2011
+95,2011,Nashville,TN,55,3,Southeast Missouri State University,Tennessee State University,Home,55,3,52,52,Win,2011-10-08,6234,258,278,15,115,54,17,1.0,9,2,2011
+96,2011,Cookeville,TN,42,40,Tennessee Tech University,Tennessee State University,Away,42,40,2,2,Win,2011-10-15,8676,166,232,118,5,88,38,5.0,32,5,2011
+97,2011,Richmond,KY,33,22,Tennessee State University,Eastern Kentucky University,Away,22,33,-11,11,Loss,2011-10-22,10800,65,343,112,17,80,20,3.0,14,4,2011
+98,2011,Charleston,IL,18,17,Eastern Illinois University,Tennessee State University,Away,18,17,1,1,Win,2011-11-05,6774,200,118,64,0,59,23,3.0,17,7,2011
+99,2011,Nashville,TN,35,30,University of Tennessee Martin,Tennessee State University,Home,35,30,5,5,Win,2011-11-12,19537,253,263,46,5,53,14,1.0,1,5,2011
+100,2011,Nashville,TN,38,16,Tennessee State University,Jacksonville State University,Home,16,38,-22,22,Loss,2011-11-19,6137,87,262,129,16,50,18,2.0,10,5,2011
+101,2012,Nashville,TN,17,14,Florida A&M University,Tennessee State University,Home,17,14,3,3,Win,2012-09-01,15652,138,263,52,8,49,28,1.0,5,5,2012
+102,2012,Memphis,TN,38,12,Jackson State University,Tennessee State University,Away,38,12,26,26,Win,2012-09-08,42257,235,137,69,42,66,21,3.0,20,8,2012
+103,2012,Nashville,TN,34,14,Austin Peay State University,Tennessee State University,Home,34,14,20,20,Win,2012-09-15,14264,112,322,24,7,55,13,1.0,9,3,2012
+104,2012,Daytona Beach,FL,21,14,Bethune Cookman University,Tennessee State University,Away,21,14,7,7,Win,2012-09-22,9461,200,157,41,37,84,52,4.0,30,7,2012
+105,2012,Nashville,TN,40,13,University of Arkansas Pine Bluff,Tennessee State University,Home,40,13,27,27,Win,2012-09-29,31765,201,262,47,4,62,40,3.0,29,4,2012
+106,2012,Nashville,TN,23,20,Eastern Kentucky University,Tennessee State University,Home,23,20,3,3,Win,2012-10-05,9878,139,227,63,0,67,11,3.0,6,5,2012
+107,2012,Cape Girardeau,MO,40,28,Southeast Missouri State University,Tennessee State University,Away,40,28,12,12,Win,2012-10-13,4800,306,154,56,6,74,21,2.0,13,1,2012
+108,2012,Jacksonville,AL,31,28,Tennessee State University,Jacksonville State University,Away,28,31,-3,3,Loss,2012-10-20,14867,184,311,62,0,62,15,1.0,9,5,2012
+109,2012,Nashville,TN,22,21,Tennessee Tech University,Tennessee State University,Home,22,21,1,1,Win,2012-10-27,11373,158,294,54,44,48,13,1.0,8,4,2012
+110,2012,Murray,KY,49,28,Tennessee State University,Murray State University,Away,28,49,-21,21,Loss,2012-11-03,3112,138,273,195,0,72,11,1.0,7,6,2012
+111,2012,Martin,TN,35,26,Tennessee State University,University of Tennessee Martin,Away,26,35,-9,9,Loss,2012-11-17,6322,122,355,101,0,79,24,1.0,6,5,2012
+112,2013,Nashville,TN,12,9,Tennessee State University,Bethune Cookman University,Home,9,12,-3,3,Loss,2013-09-01,16108,116,132,84,51,62,7,1.0,4,5,2013
+113,2013,Tallahassee,FL,27,7,Florida A&M University,Tennessee State University,Away,27,7,20,20,Win,2013-09-07,14237,268,131,111,17,41,35,3.0,18,4,2013
+114,2013,Memphis,TN,26,16,Jackson State University,Tennessee State University,Away,26,16,10,10,Win,2013-09-14,42400,174,111,64,11,69,26,2.0,13,3,2013
+115,2013,Cookeville,TN,41,21,Tennessee Tech University,Tennessee State University,Away,41,21,20,20,Win,2013-09-21,10044,95,343,63,23,76,51,3.0,28,5,2013
+116,2013,St. Louis,MO,73,6,Central State University,Tennessee State University,Away,73,6,67,67,Win,2013-09-28,22000,311,228,46,75,70,44,3.0,17,1,2013
+117,2013,Nashville,TN,40,16,Southeast Missouri State University,Tennessee State University,Home,40,16,24,24,Win,2013-10-05,7374,264,280,24,7,37,12,1.0,8,3,2013
+118,2013,Jacksonville,AL,31,15,Jacksonville State University,Tennessee State University,Away,31,15,16,16,Win,2013-10-12,19092,215,133,48,46,70,61,5.0,18,6,2013
+119,2013,Martin,TN,29,15,University of Tennessee Martin,Tennessee State University,Away,29,15,14,14,Win,2013-10-19,4166,69,170,64,0,78,56,5.0,35,6,2013
+120,2013,Nashville,TN,34,16,Tennessee State University,Eastern Illinois University,Home,16,34,-18,18,Loss,2013-10-26,22157,126,212,19,56,70,31,3.0,27,8,2013
+121,2013,Richmond,KY,44,0,Tennessee State University,Eastern Kentucky University,Away,0,44,-44,44,Loss,2013-11-02,5700,71,101,96,-1,63,3,0.0,0,9,2013
+122,2013,Nashville,TN,31,6,Austin Peay State University,Tennessee State University,Home,31,6,25,25,Win,2013-11-09,5258,146,173,8,13,60,59,5.0,37,5,2013
+123,2013,Nashville,TN,17,10,Murray State University,Tennessee State University,Home,17,10,7,7,Win,2013-11-16,6412,241,60,45,19,54,31,3.0,20,8,2013
+124,2013,Indianapolis,IN,31,0,Butler University,Tennessee State University,Away,31,0,31,31,Win,2013-11-30,1928,152,263,-9,-3,47,21,2.0,7,4,2013
+125,2013,Charleston,IL,51,10,Tennessee State University,Eastern Illinois University,Away,10,51,-41,41,Loss,2013-12-07,4825,45,242,52,2,73,13,1.0,5,8,2013
+126,2014,Nashville,TN,58,6,Edward Waters College,Tennessee State University,Home,58,6,52,52,Win,2014-08-30,10541,439,71,77,57,53,38,2.0,13,1,2014
+127,2014,Montgomery,AL,27,21,Tennessee State University,Alabama State University,Away,21,27,-6,6,Loss,2014-09-06,15725,92,340,111,22,89,28,3.0,13,8,2014
+128,2014,Memphis,TN,35,7,Jackson State University,Tennessee State University,Away,35,7,28,28,Win,2014-09-13,46914,137,187,29,40,54,40,7.0,33,8,2014
+129,2014,Nashville,TN,10,7,Tennessee Tech University,Tennessee State University,Home,10,7,3,3,Win,2014-09-20,9217,92,113,0,15,48,31,6.0,28,9,2014
+130,2014,Nashville,TN,27,7,Florida A&M University,Tennessee State University,Home,27,7,20,20,Win,2014-09-27,29225,125,153,24,56,64,51,7.0,44,7,2014
+131,2014,Cape Girardeau,MO,28,21,Tennessee State University,Southeast Missouri State University,Away,21,28,-7,7,Loss,2014-10-04,8089,143,362,53,24,81,9,0.0,0,5,2014
+132,2014,Nashville,TN,27,20,Tennessee State University,Jacksonville State University,Home,20,27,-7,7,Loss,2014-10-11,5849,43,364,63,12,75,21,2.0,13,3,2014
+133,2014,Nashville,TN,21,16,Tennessee State University,University of Tennessee Martin,Home,16,21,-5,5,Loss,2014-10-18,6738,53,314,32,-1,73,48,3.0,22,8,2014
+134,2014,Charleston,IL,28,3,Tennessee State University,Eastern Illinois University,Away,3,28,-25,25,Loss,2014-10-25,8289,107,180,136,1,54,17,1.0,9,6,2014
+135,2014,Nashville,TN,56,42,Tennessee State University,Eastern Kentucky University,Home,42,56,-14,14,Loss,2014-11-01,5052,105,326,198,0,84,19,2.0,4,5,2014
+136,2014,Clarksville,TN,31,27,Austin Peay State University,Tennessee State University,Away,31,27,4,4,Win,2014-11-08,6143,111,395,58,-2,85,29,2.0,15,0,2014
+137,2014,Murray,KY,48,33,Murray State University,Tennessee State University,Away,48,33,15,15,Win,2014-11-22,1962,114,463,48,0,81,63,8.0,51,6,2014
+138,2015,Nashville,TN,24,14,Alabama State University,Tennessee State University,Home,24,14,10,10,Win,2015-09-06,22455,142,188,58,38,47,21,1.0,12,5,2015
+139,2015,Memphis,TN,35,25,Jackson State University,Tennessee State University,Away,35,25,10,10,Win,2015-09-12,48385,110,304,152,48,83,38,5.0,31,5,2015
+140,2015,Jacksonville,AL,48,13,Tennessee State University,Jacksonville State University,Away,13,48,-35,35,Loss,2015-09-19,23413,24,184,102,0,83,4,0.0,0,7,2015
+141,2015,Tallahassee,FL,30,14,Florida A&M University,Tennessee State University,Away,30,14,16,16,Win,2015-09-26,18020,169,238,46,15,68,44,4.0,22,8,2015
+142,2015,Martin,TN,28,14,Tennessee State University,University of Tennessee Martin,Away,14,28,-14,14,Loss,2015-10-10,7123,85,205,40,4,71,7,0.0,0,6,2015
+143,2015,Nashville,TN,25,22,Tennessee State University,Eastern Illinois University,Home,22,25,-3,3,Loss,2015-10-17,22144,162,125,22,22,60,12,0.0,0,7,2015
+144,2015,Richmond,KY,45,21,Tennessee State University,Eastern Kentucky University,Away,21,45,-24,24,Loss,2015-10-24,9400,129,222,4,11,65,12,0.0,0,5,2015
+145,2015,Nashville,TN,20,6,Austin Peay State University,Tennessee State University,Home,20,6,14,14,Win,2015-10-31,5985,165,76,46,-2,62,7,0.0,0,7,2015
+146,2015,Nashville,TN,46,43,Tennessee State University,Murray State University,Home,43,46,-3,3,Loss,2015-11-07,7897,125,329,86,3,92,69,8.0,55,6,2015
+147,2015,Cookeville,TN,30,24,Tennessee State University,Tennessee Tech University,Away,24,30,-6,6,Loss,2015-11-21,3924,123,221,61,9,53,28,3.0,25,5,2015
+148,2016,Nashville,TN,44,0,University of Arkansas Pine Bluff,Tennessee State University,Home,44,0,44,44,Win,2016-09-03,15078,202,259,29,64,52,39,5.0,31,3,2016
+149,2016,Memphis,TN,40,26,Jackson State University,Tennessee State University,Away,40,26,14,14,Win,2016-09-10,46263,121,273,96,11,61,40,3.0,21,6,2016
+150,2016,Daytona Beach,FL,31,24,Bethune Cookman University,Tennessee State University,Away,31,24,7,7,Win,2016-09-17,9385,210,184,122,23,52,17,1.0,1,5,2016
+151,2016,Nashville,TN,34,30,University of Tennessee Martin,Tennessee State University,Home,34,30,4,4,Win,2016-10-01,10001,141,223,80,0,63,28,2.0,12,1,2016
+152,2016,Charleston,IL,35,34,Tennessee State University,Eastern Illinois University,Away,34,35,-1,1,Loss,2016-10-08,4319,76,303,113,0,75,6,1.0,3,5,2016
+153,2016,Nashville,TN,35,28,Eastern Kentucky University,Tennessee State University,Home,35,28,7,7,Win,2016-10-15,21053,200,181,78,0,74,14,0.0,0,3,2016
+154,2016,Nashville,TN,35,17,Tennessee State University,Vanderbilt University,Home,17,35,-18,18,Loss,2016-10-22,31084,125,285,59,0,65,6,1.0,5,3,2016
+155,2016,Murray,KY,38,31,Tennessee State University,Murray State University,Away,31,38,-7,7,Loss,2016-10-29,8605,226,329,142,10,74,20,2.0,14,2,2016
+156,2016,Clarksville,TN,41,40,Austin Peay State University,Tennessee State University,Away,41,40,1,1,Win,2016-11-05,6041,246,212,86,14,90,24,2.0,13,5,2016
+157,2016,Nashville,TN,44,16,Tennessee State University,Tennessee Tech University,Home,16,44,-28,28,Loss,2016-11-12,8981,93,202,93,17,53,2,1.0,0,3,2016
+158,2016,Cape Girardeau,MO,32,31,Southeast Missouri State University,Tennessee State University,Away,32,31,1,1,Win,2016-11-19,3117,196,279,93,17,69,36,3.0,26,3,2016
+159,2017,Atlanta,GA,17,10,Georgia State University,Tennessee State University,Away,17,10,7,7,Win,2017-08-31,24333,238,145,44,0,59,26,3.0,17,5,2017
+160,2017,Memphis,TN,17,15,Jackson State University,Tennessee State University,Away,17,15,2,2,Win,2017-09-09,47407,160,78,49,41,76,21,4.0,18,6,2017
+161,2017,Tampa,FL,24,13,Florida A&M University,Tennessee State University,Away,24,13,11,11,Win,2017-09-17,17102,241,273,63,7,38,19,0.0,0,2,2017
+162,2017,Martin,TN,31,16,Tennessee State University,University of Tennessee Martin,Away,16,31,-15,15,Loss,2017-09-23,6484,100,159,160,3,77,21,1.0,5,6,2017
+163,2017,Nashville,TN,19,16,Tennessee State University,Eastern Illinois University,Home,16,19,-3,3,Loss,2017-09-30,11013,83,195,48,0,73,14,0.0,0,6,2017
+164,2017,Richmond,KY,45,21,Eastern Kentucky University,Tennessee State University,Away,45,21,24,24,Win,2017-10-07,8410,193,106,25,-3,60,8,1.0,1,5,2017
+165,2017,Nashville,TN,21,17,Tennessee State University,Austin Peay State University,Home,17,21,-4,4,Loss,2017-10-14,21127,106,208,64,13,61,11,1.0,0,4,2017
+166,2017,Cookeville,TN,30,26,Tennessee State University,Tennessee Tech University,Away,26,30,-4,4,Loss,2017-10-28,5235,83,331,135,-2,62,28,1.0,9,4,2017
+167,2017,Nashville,TN,60,0,Virginia University Lynchburg,Tennessee State University,Home,60,0,60,60,Win,2017-11-04,7487,174,274,18,94,41,45,6.0,34,3,2017
+168,2017,Nashville,TN,23,20,Southeast Missouri State University,Tennessee State University,Home,23,20,3,3,Win,2017-11-11,8693,147,196,103,29,57,14,1.0,5,4,2017
+169,2017,Jacksonville,AL,36,6,Tennessee State University,Jacksonville State University,Away,6,36,-30,30,Loss,2017-11-16,18782,15,82,140,1,71,18,1.0,9,11,2017
+170,2018,Nashville,TN,34,3,Bethune Cookman University,Tennessee State University,Home,34,3,31,31,Win,2018-09-01,14069,201,324,49,64,54,43,5.0,35,6,2018
+171,2018,Charleston,IL,41,40,Eastern Illinois University,Tennessee State University,Away,41,40,1,1,Win,2018-09-22,7670,195,349,150,51,63,30,2.0,15,4,2018
+172,2018,Nashville,TN,31,27,Tennessee State University,Vanderbilt University,Home,27,31,-4,4,Loss,2018-09-29,27340,104,269,105,3,69,5,0.0,0,4,2018
+173,2018,Clarksville,TN,49,34,Tennessee State University,Austin Peay State University,Away,34,49,-15,15,Loss,2018-10-06,12201,164,325,134,34,77,19,0.0,0,4,2018
+174,2018,Murray,KY,45,21,Tennessee State University,Murray State University,Away,21,45,-24,24,Loss,2018-10-13,3318,63,307,140,-1,74,19,1.0,7,5,2018
+175,2018,Nashville,TN,41,14,Tennessee Tech University,Tennessee State University,Home,41,14,27,27,Win,2018-10-20,17283,149,323,48,14,77,28,4.0,21,4,2018
+176,2018,Cape Girardeau,MO,38,21,Tennessee State University,Southeast Missouri State University,Away,21,38,-17,17,Loss,2018-11-03,3481,253,255,78,0,65,28,2.0,14,3,2018
+177,2018,Nashville,TN,41,14,Tennessee State University,Jacksonville State University,Home,14,41,-27,27,Loss,2018-11-10,6718,178,164,36,0,60,27,2.0,19,5,2018
+178,2018,Nashville,TN,31,28,University of Tennessee Martin,Tennessee State University,Home,31,28,3,3,Win,2018-11-17,3618,89,170,63,29,64,38,2.0,18,7,2018
+179,2019,Nashville,TN,26,20,Mississippi Valley State University,Tennessee State University,Home,26,20,6,6,Win,2019-08-31,13458,117,330,13,61,58,3,0.0,0,6,2019
+180,2019,Murfreesboro,TN,45,26,Tennessee State University,Middle Tennessee State University,Away,26,45,-19,19,Loss,2019-09-07,20912,207,259,108,0,49,13,1.0,7,5,2019
+181,2019,Memphis,TN,49,44,Tennessee State University,Jackson State University,Away,44,49,-5,5,Loss,2019-09-14,48347,141,389,155,0,55,19,1.0,8,3,2019
+182,2019,Nashville,TN,37,31,Tennessee State University,University of Arkansas Pine Bluff,Home,31,37,-6,6,Loss,2019-09-21,8683,71,334,74,15,65,13,1.0,3,6,2019
+183,2019,Richmond,KY,42,16,Tennessee State University,Eastern Kentucky University,Away,16,42,-26,26,Loss,2019-09-28,8861,112,270,38,7,74,11,1.0,5,5,2019
+184,2019,Jacksonville,AL,31,23,Tennessee State University,Jacksonville State University,Away,23,31,-8,8,Loss,2019-10-05,16589,230,240,56,0,75,13,1.0,7,3,2019
+185,2019,Nashville,TN,31,17,Tennessee State University,Murray State University,Home,17,31,-14,14,Loss,2019-10-12,5324,108,312,55,8,67,21,1.0,7,3,2019
+186,2019,Nashville,TN,26,24,Austin Peay State University,Tennessee State University,Home,26,24,2,2,Win,2019-10-19,16389,116,220,66,0,60,11,1.0,0,6,2019
+187,2019,Nashville,TN,32,13,Tennessee State University,Southeast Missouri State University,Home,13,32,-19,19,Loss,2019-11-02,4738,83,217,113,13,62,17,2.0,8,4,2019
+188,2019,Nashville,TN,49,38,Tennessee State University,Eastern Illinois University,Home,38,49,-11,11,Loss,2019-11-09,4131,97,209,162,62,63,46,2.0,21,3,2019
+189,2019,Martin,TN,28,17,Tennessee State University,University of Tennessee Martin,Away,17,28,-11,11,Loss,2019-11-16,1776,193,123,105,6,67,26,2.0,12,6,2019
+190,2019,Cookeville,TN,37,27,Tennessee Tech University,Tennessee State University,Away,37,27,10,10,Win,2019-11-23,2728,198,225,51,25,79,22,2.0,14,4,2019
