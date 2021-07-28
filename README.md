@@ -1,2 +1,2 @@
-# Examining data to predict football wins for Tennessee State University
+# Examining data from Tennessee State University to predict footbnall wins
 
